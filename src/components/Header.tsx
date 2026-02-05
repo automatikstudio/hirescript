@@ -28,6 +28,9 @@ export default function Header() {
             <Link href="/#pricing" className="text-stone-600 hover:text-primary-600 transition-colors text-sm font-medium">
               Pricing
             </Link>
+            <Link href="/blog" className="text-stone-600 hover:text-primary-600 transition-colors text-sm font-medium">
+              Blog
+            </Link>
             <Link href="/app" className="btn-primary text-sm">
               Get Started Free
             </Link>
